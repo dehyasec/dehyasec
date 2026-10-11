@@ -7,10 +7,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/banner.svg?v=1" width="100%" alt="Dehya, cybersecurity student and ethical hacker in the making"></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/REPLACE_LINKEDIN"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-linkedin.svg?v=1" height="48" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/REPLACE_TRYHACKME"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-tryhackme.svg?v=1" height="48" alt="TryHackMe"></a>
-  <a href="https://app.hackthebox.com/profile/REPLACE_HTB"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-htb.svg?v=1" height="48" alt="Hack The Box"></a>
-  <a href="mailto:REPLACE_EMAIL"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-email.svg?v=1" height="48" alt="Email"></a>
+  <a href="[https://linkedin.com/in/REPLACE_LINKEDIN](https://www.linkedin.com/in/dehya-shaikh-8610a8381/)"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-linkedin.svg?v=1" height="48" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/shaikhdehya"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-tryhackme.svg?v=1" height="48" alt="TryHackMe"></a>
+  <a href="https://profile.hackthebox.com/profile/01a12bed-bdea-714d-9178-494ccdd1038d?utm_medium=copy_url"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-htb.svg?v=1" height="48" alt="Hack The Box"></a>
+  <a href="mailto:shaikhdehya@gmail.com"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/btn-email.svg?v=1" height="48" alt="Email"></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dehyasec/dehyasec/main/assets/h-about.svg?v=1" width="100%" alt="About Dehya"></p>
