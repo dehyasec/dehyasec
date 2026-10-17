@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Log analyzer icon">
+<title>Log analyzer icon</title>
+<defs>
+
+</defs>
+<rect x="0.5" y="0.5" width="63" height="63" rx="14" fill="#171B21" stroke="#292F38"/><path d="M15 20H34M15 29H28M15 38H24" fill="none" stroke="#B6FF3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="19" cy="47" r="0" fill="none" stroke="#B6FF3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="43" cy="39" r="8" fill="none" stroke="#B6FF3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M49 45L54 50" fill="none" stroke="#B6FF3B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="29" r="2.6" fill="#FF5C65"/>
+</svg>
