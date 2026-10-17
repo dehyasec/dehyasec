@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="108" viewBox="0 0 900 108" role="img" aria-label="Educational and ethical use only">
-<title>Educational and ethical use only</title>
-<defs>
-<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#ff4d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ff4d5e"/><stop offset=".5" stop-color="#a78bfa"/><stop offset=".7" stop-color="#4cc9ff"/><stop offset="1" stop-color="#4cc9ff" stop-opacity="0"/></linearGradient><linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="lc"><rect x="0" y="14" width="900" height="4"/></clipPath>
-</defs>
-<g clip-path="url(#lc)"><rect x="0" y="15" width="900" height="2" fill="url(#line)"/><rect x="-200" y="14" width="200" height="4" fill="url(#shine)" opacity=".55"><animate attributeName="x" values="-200;900" dur="6s" repeatCount="indefinite"/></rect></g><text x="450" y="62" text-anchor="middle" font-family="'Segoe UI','Inter',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#e6ecf5">For educational and ethical use only</text><text x="450" y="90" text-anchor="middle" font-family="'Segoe UI','Inter',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#8091ad">I only test systems I own or have explicit permission to test.</text>
-</svg>
